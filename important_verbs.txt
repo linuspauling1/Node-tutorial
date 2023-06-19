@@ -1,0 +1,8 @@
+get
+set
+play
+carry
+keep
+turn
+catch
+make
