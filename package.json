@@ -4,8 +4,8 @@
   "description": "Introduction to ndoe",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app.js",
-    "launch": "node app.js"
+    "dev": "nodemon main.js",
+    "launch": "node main.js"
   },
   "repository": {
     "type": "git",
