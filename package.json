@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_tutorial",
+  "version": "1.0.0",
+  "description": "Introduction to ndoe",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "launch": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuspauling1/Node-tutorial.git"
+  },
+  "keywords": [
+    "novice",
+    "node",
+    "js",
+    "server"
+  ],
+  "author": "Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuspauling1/Node-tutorial/issues"
+  },
+  "homepage": "https://github.com/linuspauling1/Node-tutorial#readme"
+}
